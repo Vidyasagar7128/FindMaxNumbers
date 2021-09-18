@@ -1,0 +1,14 @@
+C:\Users\vidya\Desktop\DotNet\FindMax\FindMax\bin\Debug\netcoreapp3.1\FindMax.exe
+C:\Users\vidya\Desktop\DotNet\FindMax\FindMax\bin\Debug\netcoreapp3.1\FindMax.deps.json
+C:\Users\vidya\Desktop\DotNet\FindMax\FindMax\bin\Debug\netcoreapp3.1\FindMax.runtimeconfig.json
+C:\Users\vidya\Desktop\DotNet\FindMax\FindMax\bin\Debug\netcoreapp3.1\FindMax.runtimeconfig.dev.json
+C:\Users\vidya\Desktop\DotNet\FindMax\FindMax\bin\Debug\netcoreapp3.1\FindMax.dll
+C:\Users\vidya\Desktop\DotNet\FindMax\FindMax\bin\Debug\netcoreapp3.1\FindMax.pdb
+C:\Users\vidya\Desktop\DotNet\FindMax\FindMax\obj\Debug\netcoreapp3.1\FindMax.csproj.AssemblyReference.cache
+C:\Users\vidya\Desktop\DotNet\FindMax\FindMax\obj\Debug\netcoreapp3.1\FindMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vidya\Desktop\DotNet\FindMax\FindMax\obj\Debug\netcoreapp3.1\FindMax.AssemblyInfoInputs.cache
+C:\Users\vidya\Desktop\DotNet\FindMax\FindMax\obj\Debug\netcoreapp3.1\FindMax.AssemblyInfo.cs
+C:\Users\vidya\Desktop\DotNet\FindMax\FindMax\obj\Debug\netcoreapp3.1\FindMax.csproj.CoreCompileInputs.cache
+C:\Users\vidya\Desktop\DotNet\FindMax\FindMax\obj\Debug\netcoreapp3.1\FindMax.dll
+C:\Users\vidya\Desktop\DotNet\FindMax\FindMax\obj\Debug\netcoreapp3.1\FindMax.pdb
+C:\Users\vidya\Desktop\DotNet\FindMax\FindMax\obj\Debug\netcoreapp3.1\FindMax.genruntimeconfig.cache
