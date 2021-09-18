@@ -22,6 +22,20 @@ namespace FindMax
                 }
             }
         }
+        public void Swaps()
+        {
+
+            if (intNums[0] > intNums[1])
+            {
+                int temp = intNums[0];
+                intNums[0] = intNums[1];
+                intNums[1] = temp;
+            }
+            for (int i = 0; i < intNums.Length; i++)
+            {
+                Console.WriteLine($"Second Position : {intNums[i]}");
+            }
+        }
         public void Show()
         {
             for(int i = 0; i < intNums.Length; i++)

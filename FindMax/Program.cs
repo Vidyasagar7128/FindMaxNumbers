@@ -10,6 +10,7 @@ namespace FindMax
             MaxNumbers maxNumbers = new MaxNumbers();
             maxNumbers.MaxInt();
             maxNumbers.Show();
+            maxNumbers.Swaps();
         }
     }
 }
